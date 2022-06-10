@@ -2,7 +2,7 @@
 
 ### Weather display map created while practicing Vue JS
 
-![Preview](./Screenshoot.png)
+![Preview](./screenshoot.png)
 
 #### Run The App Locally
 
